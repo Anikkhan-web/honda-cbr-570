@@ -1,0 +1,38 @@
+/* header */
+body{
+    overflow-x: hidden;
+}
+
+.bg-custom-color{
+    background-color: #264653;
+
+}
+
+.custom-btn-color{
+    background: coral;
+    border: none;
+
+}
+
+
+
+
+
+/* gray scale */
+
+.custom-gray-scale{
+    filter: grayscale(100%);
+}
+.custom-gray-scale:hover{
+    filter: grayscale(0%);
+}
+
+
+
+
+
+/* custom-repeat-color  */
+.custom-color{
+    color: coral; 
+   
+}
